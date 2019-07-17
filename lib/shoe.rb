@@ -9,7 +9,7 @@ class Shoe
     BRANDS << brand unless 
     brand == BRANDS
   end 
-  end
+  
 
 
   def cobble
